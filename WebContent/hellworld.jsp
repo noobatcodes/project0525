@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>gohome</h1>
 <h1>집가고싶다</h1>
 </body>
 </html>
